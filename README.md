@@ -3,7 +3,7 @@ Hi 👋 My name is Sebastian Lib
 
 I'm currently looking for a job as a junior frontend developer.
 
-* 🌍  I'm based in Rzeszow but I can move
+* 🌍  I'm based in Rzeszow but I can relocate
 * 🖥️  See my portfolio at [My website](http://portfolio-sigma-six-33.vercel.app/)
 * ✉️  You can contact me at [sebastianlib04@gmail.com](mailto:sebastianlib04@gmail.com)
 * 🚀  I'm currently working on [CalendarCollaborate](http://github.com/SebastianLib/CalendarCollaborate)
