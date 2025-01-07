@@ -6,8 +6,6 @@ I'm currently junior fullstack developer.
 * 🌍  I'm based in Rzeszow but I can relocate
 * 🖥️  See my portfolio at [My website](http://portfolio-sigma-six-33.vercel.app/)
 * ✉️  You can contact me at [sebastianlib04@gmail.com](mailto:sebastianlib04@gmail.com)
-* 🚀  I'm currently working on [CalendarCollaborate](http://github.com/SebastianLib/CalendarCollaborate)
-* 🧠  I'm learning JEST
 * 🤝  I'm open to collaborating on various types of projects
 * ⚡  I have a dog named Timon and I really enjoy working out at the gym :D
 
