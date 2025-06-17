@@ -3,7 +3,7 @@ Hi 👋 My name is Sebastian Lib
 
 I'm currently junior fullstack developer.
 
-* 🌍  I'm based in Rzeszow but I can relocate
+* 🌍  I'm based in Rzeszow
 * 🖥️  See my portfolio at [My website](http://portfolio-sigma-six-33.vercel.app/)
 * ✉️  You can contact me at [sebastianlib04@gmail.com](mailto:sebastianlib04@gmail.com)
 * 🤝  I'm open to collaborating on various types of projects
